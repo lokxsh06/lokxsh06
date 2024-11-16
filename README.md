@@ -4,8 +4,8 @@ computer science student
 - 🌱 I’m currently learning DSBA
 - 💞️ I’m looking to collaborate on AI/ML
 - 📫 I'm looking for help with placements in FAANG
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: Mr
+
 
 <!---
 lokxsh06/lokxsh06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
